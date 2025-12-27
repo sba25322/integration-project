@@ -1,6 +1,3 @@
-Below is the content converted into a **README.md**–style format using clear Markdown structure, headings, and bullet points. You can copy and paste this directly into a `README.md` file.
-
----
 
 # House Price Prediction and Demand Analysis
 
